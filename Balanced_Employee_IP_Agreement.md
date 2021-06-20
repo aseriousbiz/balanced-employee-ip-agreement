@@ -1,6 +1,6 @@
 # Balanced Employee Intellectual Property Agreement 2.0.0
 
-This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between the person named below and [COMPANY NAME], a [State of Incorporation] corporation ("Company").
+This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between the person named below and A Serious Business, Inc., a Delaware corporation ("Company").
 
 **What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire, and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company. "IP" includes without limitation concepts, designs, developments, discoveries, ideas, improvements, inventions, patents, trade secrets, trademarks, copyrights, and works of authorship. In relation to software, IP covers both source code and object code.
 
